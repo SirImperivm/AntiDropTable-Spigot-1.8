@@ -1,0 +1,22 @@
+settings:
+  droptable-whitelist:
+    - "ARROW"
+    - "GOLDEN_APPLE"
+messages:
+  help:
+    admin-command:
+      - "&8&m                              "
+      - ""
+      - "&a/adt reload &7- &fRicarica il plugin."
+      - ""
+      - "&8&m                              "
+  prefixes:
+    success: "&8[&a|&8] &7"
+    fail: "&8[&c|&8] &7"
+  success:
+    reloaded: "Plugin ricaricato con successo."
+  errors:
+    no-perm: "Non hai accesso al comando."
+permissions:
+  commands:
+    admin: adt.admin

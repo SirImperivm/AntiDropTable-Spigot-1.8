@@ -1,0 +1,7 @@
+name: AntiDropTable
+version: '${project.version}'
+main: me.sirimperivm.spigot.Main
+load: STARTUP
+
+commands:
+  adt:
